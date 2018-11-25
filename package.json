@@ -1,0 +1,32 @@
+{
+  "name": "@behaver/annual-aberration",
+  "version": "1.0.0",
+  "description": "The pkg is used to calculate annual aberration",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/behaver/annual-aberration.git"
+  },
+  "keywords": [
+    "aberration"
+  ],
+  "author": "Sanwan, Dong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/behaver/annual-aberration/issues"
+  },
+  "homepage": "https://github.com/behaver/annual-aberration#readme",
+  "devDependencies": {
+    "@behaver/angle": "^2.0.2",
+    "@behaver/coordinate": "^3.3.0",
+    "@behaver/jdate": "^2.2.0",
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "@behaver/earth-ssb": "^1.0.1"
+  }
+}
