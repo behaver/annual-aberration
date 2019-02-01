@@ -12,6 +12,7 @@ describe('#AnnualAberration', () => {
       expect(() => {
         new AnnualAberration({
           time: new JDateRepository(18, 'j2000'),
+          system: 'equinoctial',
           sc: new SphericalCoordinate3D(1, 1, 1),
         })
       }).not.to.throw();

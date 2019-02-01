@@ -22,11 +22,11 @@
   "devDependencies": {
     "@behaver/angle": "^2.0.2",
     "@behaver/coordinate": "^3.3.0",
-    "@behaver/jdate": "^2.2.0",
+    "@behaver/jdate": "^2.3.0",
     "chai": "^4.2.0",
     "mocha": "^5.2.0"
   },
   "dependencies": {
-    "@behaver/earth-ssb": "^1.0.1"
+    "@behaver/earth-ssb": "^1.0.2"
   }
 }
