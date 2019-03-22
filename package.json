@@ -1,6 +1,6 @@
 {
   "name": "@behaver/annual-aberration",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The pkg is used to calculate annual aberration",
   "main": "index.js",
   "scripts": {
