@@ -20,13 +20,14 @@
   },
   "homepage": "https://github.com/behaver/annual-aberration#readme",
   "devDependencies": {
-    "@behaver/angle": "^2.0.2",
-    "@behaver/coordinate": "^3.3.1",
-    "@behaver/jdate": "^2.3.0",
+    "@behaver/angle": "^2.0.3",
+    "@behaver/coordinate": "^3.3.3",
+    "@behaver/jdate": "^2.3.2",
     "chai": "^4.2.0",
     "mocha": "^5.2.0"
   },
   "dependencies": {
-    "@behaver/earth-ssb": "^1.0.3"
-  }
+    "@behaver/earth-ssb": "^1.0.5"
+  },
+  "files": []
 }
